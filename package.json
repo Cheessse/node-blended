@@ -8,7 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "create": "node src/scripts/createProducts.js",
     "expensive": "node src/scripts/getExpensiveProducts.js",
-    "total": "node src/scripts/getTotalPrice.js"
+    "total": "node src/scripts/getTotalPrice.js",
+    "random": "node src/scripts/getRandomProduct.js",
+    "writeFiles": "node src/scripts/writeFiles.js",
+    "getFiles": "node src/scripts/getFiles.js"
   },
   "keywords": [],
   "author": "",
