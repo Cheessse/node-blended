@@ -6,7 +6,9 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "create": "node src/scripts/createProducts.js" 
+    "create": "node src/scripts/createProducts.js",
+    "expensive": "node src/scripts/getExpensiveProducts.js",
+    "total": "node src/scripts/getTotalPrice.js"
   },
   "keywords": [],
   "author": "",
